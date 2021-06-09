@@ -1,0 +1,230 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Rajdhani&display=swap');
+.str{
+    display: flex;
+    margin-left: 5px;
+    position: fixed;
+}
+.cn{
+    margin-left: 10px;
+    font-size:20px;
+    text-align:center;
+    font-family:"Rajdhani";
+    color: #F3F730;
+    transition:1s;
+
+}
+.cn a:link,.cn a:visited{
+  text-decoration:none;
+ color: #33FFEE;
+ 
+}
+.cn:hover{
+  color:#C777F7 ;
+}
+  
+header{
+    background-color:#1C0B2A;
+    width:100%;
+    height: 45px;
+    z-index:99;
+}
+body {
+    background-image: url(https://img1.akspic.ru/originals/5/9/5/8/3/138595-graficeskij_dizajn-kompaniya_razer_blackwidow_predusmotreno-elektronnoe_ustrojstvo-nastrojka_myshi_razer-kompyuternaya_igra-3840x2160.jpg); /* Путь к фоновому изображению */
+    background-color: #000000 ; 
+}
+.h1{
+    font-family: "Orbitron";
+    color: #E6FCFC;
+    font-size: 70px;
+    margin: 10% 2% 8% 7%;
+    text-align:left;
+}
+.pod{
+    font-family:"Rajdhani";
+    color: #F3F730;
+    font-size:26px;
+    text-align:center;
+    width:60%;
+    margin-left: 6%;
+}
+.two{
+  width: 100%;
+  background-color: #1C0B2A;
+  heigth: 350px;
+  margin: 10% 0% 0% 0%;
+}
+h3{
+  font-family:"Rajdhani";
+  color: #F3F730;
+  font-size: 30px;
+  width: 500px;
+  text-align: center;
+  padding:10px 0px 0px 0px;
+}
+.p{
+  font-family:"Rajdhani";
+  color:#E0FFFF;
+  font-size: 17px;
+  width: 50%;
+  text-align:center;
+  margin: 0% 0% 0px 100px;
+}
+.volk{
+  height: 95%;
+  margin-left:3px;
+  
+}
+.im1{
+  width: 630px;
+  height:300px;
+  margin-top: -14% ;
+  margin-left: 59%;
+  display:flex;
+}
+header{
+  position: fixed;
+  left:0px;
+  top:0px;
+}
+.zag1{
+  margin: 15px 0px 0px 15%;
+}
+.three{
+  background-color:#F3F730;
+  width: 25%;
+  height: 10%;
+  font-family: "Orbitron";
+  text-align:center;
+  color:#1C0B2A;
+  margin-left:5px;
+  
+}
+.three1{
+  font-family:"Rajdhani";
+  color:#4E4E4E ;
+  text-align:center;
+  margin:0px 6px;
+}
+.volk2{
+  width: 80%;
+  text-align: center;
+  
+  transition-duration: 0.8s;
+  overflow:hidden;
+  margin:10% 0%  5% 0%;
+}
+.volk2:hover{
+  transform: scale(1.2);
+}
+.othree{
+  display:flex;
+  width:100%;
+}
+.im2{
+   width: 560px;
+  height:230px;
+  margin-top: -14% ;
+  margin-left: 59%;
+  display:flex;
+  padding
+}
+.four{
+  width:45%;
+  background-color:#1C0B2A;
+   font-family:"Orbitron";
+    color: #F3F730;
+  text-align:center;
+ margin-right: 10%;
+ 
+}
+.four1{
+  color:#E6E6E6 ;
+  font-family:"Rajdhani";
+ margin-left:10px;
+ text-align:left;
+
+}
+.volk3{
+  width:45%;
+transition-duration: 0.8s;
+  overflow:hidden;
+ margin-left:22px;
+}
+.volk3:hover{
+  transform: scale(1.1);
+}
+.four22{
+    width:45%;
+  background-color:#1C0B2A;
+   font-family:"Orbitron";
+    color: #F3F730;
+  text-align:center;
+}
+.act1{
+  width:100%;
+}
+.actzag{
+   font-family:"Rajdhani";
+   color: #F3F730;
+   text-align:center;
+}
+.act2{
+  width:60%;
+  background-color:#1C0B2A;
+}
+.podzag{
+  text-align:center;
+   font-family:"Rajdhani";
+   color: #E6FCFC;
+  font-size:17px;
+}
+.actpng{
+  width:95%;
+  margin-left:3%;
+  transition-duration: 0.8s;
+}
+.actpng:hover{
+    transform: scale(1.1);
+}
+.action{
+  width: 70%;
+  margin-left:29%;
+}
+.sim{
+  width:70%;
+  text-align:center;
+  background-color:#1C0B2A;
+ font-family:"Rajdhani";
+    color: #F3F730;
+  margin-left:10%;
+}
+.simk{
+  width:89%;
+  margin-left:1%;
+    transition-duration: 0.8s;
+}
+.simk:hover{
+  transform: scale(1.03);
+}
+.simka{
+  width:25%;
+  margin-left:15%;
+}
+footer{
+    background-color:#1C0B2A;
+    width:100%;
+    height: 50px;
+    font-family:"Rajdhani";
+    color: #F3F730;
+    text-align:center;
+    font-size:23px;
+    z-index:99;
+}
+footer a:link,footer a:visited{
+  text-decoration:none;
+ color: #33FFEE;
+}
+.footer{
+   width:5%;
+}
